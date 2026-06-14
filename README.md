@@ -29,6 +29,18 @@ I am a Software Engineering student at Riphah International University and a dev
 - **LeadMachine AI:** building an outreach operating system for lead capture, website audits, personalized campaigns, and CRM tracking
 - **Product Engineering:** improving mobile architecture, backend APIs, automation, and accessible interface design
 
+## Engineering Interests
+
+<div align="center">
+
+![Mobile Architecture](https://img.shields.io/badge/Mobile_Architecture-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Applied AI](https://img.shields.io/badge/Applied_AI-7C3AED?style=flat-square&logo=openai&logoColor=white)
+![API Design](https://img.shields.io/badge/API_Design-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Product UX](https://img.shields.io/badge/Product_UX-E4405F?style=flat-square&logo=figma&logoColor=white)
+
+</div>
+
 ## Technology Stack
 
 <div align="center">
