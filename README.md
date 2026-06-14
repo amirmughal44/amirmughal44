@@ -92,6 +92,21 @@ I am a Software Engineering student at Riphah International University and a dev
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amirmughal44&bg_color=00000000&color=64748b&line=2563eb&point=14b8a6&area=true&area_color=0ea5e9&hide_border=true" alt="GitHub contribution activity graph" />
 
+## Achievement Journey
+
+<div align="center">
+
+[![Quickdraw activity completed](https://img.shields.io/badge/Quickdraw-Activity_Completed-16A34A?style=for-the-badge&logo=github)](https://github.com/amirmughal44/amirmughal44/issues/1)
+[![Pull Shark activity completed](https://img.shields.io/badge/Pull_Shark-2_PRs_Merged-16A34A?style=for-the-badge&logo=github)](https://github.com/amirmughal44/amirmughal44/pulls?q=is%3Apr+is%3Amerged)
+[![YOLO activity completed](https://img.shields.io/badge/YOLO-Unreviewed_Merge-16A34A?style=for-the-badge&logo=github)](https://github.com/amirmughal44/amirmughal44/pull/3)
+
+![Pair Extraordinaire goal](https://img.shields.io/badge/Pair_Extraordinaire-Collaborator_Needed-F59E0B?style=flat-square&logo=github)
+![Galaxy Brain goal](https://img.shields.io/badge/Galaxy_Brain-2_Accepted_Answers-F59E0B?style=flat-square&logo=github)
+![Starstruck goal](https://img.shields.io/badge/Starstruck-16_Repository_Stars-F59E0B?style=flat-square&logo=github)
+![Public Sponsor goal](https://img.shields.io/badge/Public_Sponsor-Optional_Sponsorship-F59E0B?style=flat-square&logo=githubsponsors)
+
+</div>
+
 ## Contribution Journey
 
 <div align="center">
