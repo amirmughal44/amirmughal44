@@ -9,14 +9,14 @@
   <img src="https://img.shields.io/github/followers/amirmughal44?label=Followers&style=for-the-badge&logo=github&color=14b8a6" alt="GitHub followers" />
 </a>
 <a href="https://github.com/amirmughal44?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-9-0ea5e9?style=for-the-badge&logo=github" alt="Projects" />
+  <img src="https://img.shields.io/badge/Public_Projects-10-0ea5e9?style=for-the-badge&logo=github" alt="Public projects" />
 </a>
 
 </div>
 
 ## About Me
 
-I am a software developer focused on useful mobile and web products. I enjoy turning practical ideas into polished experiences using Flutter, Python, TypeScript, Java, and modern web technologies.
+I am a Software Engineering student at Riphah International University and a developer focused on useful mobile and web products. With 1+ year of freelance experience and 10+ Flutter projects completed, I enjoy turning practical ideas into polished, reliable experiences.
 
 - Building AI-assisted apps, automation tools, and full-stack systems
 - Exploring mobile development, applied AI, and product engineering
