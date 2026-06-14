@@ -85,6 +85,9 @@ I am a Software Engineering student at Riphah International University and a dev
 ### Let's Build Something Useful
 
 [![GitHub](https://img.shields.io/badge/GitHub-amirmughal44-181717?style=for-the-badge&logo=github)](https://github.com/amirmughal44)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Amir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-amir-4bb4b6281)
+[![Instagram](https://img.shields.io/badge/Instagram-amir.mughal1-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amir.mughal1?igsh=MXFoa2h4anJwaDBidg==)
+[![Facebook](https://img.shields.io/badge/Facebook-Muhammad_Amir-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/amirmughal482402)
 [![Portfolio](https://img.shields.io/badge/Live_Project-Healthcare_Demo-0ea5e9?style=for-the-badge&logo=githubpages&logoColor=white)](https://amirmughal44.github.io/smart-healthcare-appointment-system-web-mockup/)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:14B8A6,50:2563EB,100:0EA5E9" alt="" />
