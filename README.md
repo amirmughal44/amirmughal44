@@ -23,6 +23,12 @@ I am a Software Engineering student at Riphah International University and a dev
 - Open to collaboration on useful open-source projects
 - Based in Lahore, Pakistan
 
+## Current Focus
+
+- **CleanDrive:** developing an AI-assisted Flutter storage cleaner with duplicate detection, file preview, safe deletion, and recovery workflows
+- **LeadMachine AI:** building an outreach operating system for lead capture, website audits, personalized campaigns, and CRM tracking
+- **Product Engineering:** improving mobile architecture, backend APIs, automation, and accessible interface design
+
 ## Technology Stack
 
 <div align="center">
