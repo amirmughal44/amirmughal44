@@ -96,9 +96,9 @@ I am a Software Engineering student at Riphah International University and a dev
 
 <div align="center">
 
-[![Quickdraw activity completed](https://img.shields.io/badge/Quickdraw-Activity_Completed-16A34A?style=for-the-badge&logo=github)](https://github.com/amirmughal44/amirmughal44/issues/1)
-[![Pull Shark activity completed](https://img.shields.io/badge/Pull_Shark-2_PRs_Merged-16A34A?style=for-the-badge&logo=github)](https://github.com/amirmughal44/amirmughal44/pulls?q=is%3Apr+is%3Amerged)
-[![YOLO activity completed](https://img.shields.io/badge/YOLO-Unreviewed_Merge-16A34A?style=for-the-badge&logo=github)](https://github.com/amirmughal44/amirmughal44/pull/3)
+[![Quickdraw earned](https://img.shields.io/badge/Quickdraw-Earned-16A34A?style=for-the-badge&logo=github)](https://github.com/users/amirmughal44/achievements/quickdraw)
+[![YOLO earned](https://img.shields.io/badge/YOLO-Earned-16A34A?style=for-the-badge&logo=github)](https://github.com/users/amirmughal44/achievements/yolo)
+[![Pull Shark processing](https://img.shields.io/badge/Pull_Shark-5_PRs_Merged-F59E0B?style=for-the-badge&logo=github)](https://github.com/search?q=author%3Aamirmughal44+is%3Apr+is%3Amerged&type=pullrequests)
 
 ![Pair Extraordinaire goal](https://img.shields.io/badge/Pair_Extraordinaire-Collaborator_Needed-F59E0B?style=flat-square&logo=github)
 ![Galaxy Brain goal](https://img.shields.io/badge/Galaxy_Brain-2_Accepted_Answers-F59E0B?style=flat-square&logo=github)
